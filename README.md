@@ -1,6 +1,6 @@
 ## Welcome I'm Howard
 <a href=""><img src="https://img.shields.io/badge/anagma@naver.com-EE672F?style=flat-square&logo=mail.com&logoColor=white"/></a>
-<a href="https://www.notion.so/Programming-94b9e00cbc38415a813d92e3027ac816?pvs=4" taget="_blank"><img src="https://img.shields.io/badge/Skill Note-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://erratic-devourer-025.notion.site/Programming-94b9e00cbc38415a813d92e3027ac816?pvs=4" taget="_blank"><img src="https://img.shields.io/badge/Skill Note-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## Experience Projects
 ### Apps
