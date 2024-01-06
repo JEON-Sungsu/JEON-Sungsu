@@ -10,6 +10,15 @@
     - 데이터 바인딩
 - 사용 기술 : HTML, CSS, Javascript, Jquery
 
+## 앱 소개 화면
+|First|Second|Third|Fourth|
+|---|---|---|---|
+|<img width="502" alt="pay_01" src="https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/780dcbfb-df23-41f2-bc15-30f9ce549381">|<img width="502" alt="pay_02" src="https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/7cf6c2db-39b2-4afa-b37e-6a80ab3144bb">|<img width="504" alt="pay_04" src="https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/4364349c-60c1-4b5c-9c81-9d1d61f11708">|<img width="503" alt="pay_03" src="https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/6a97c601-f087-4335-93ee-07b8d6f95df9">|
+
+
+
+
+
 
 ## 프로젝트 회고
 - 회사에 입사하여 처음 맡게된 프로젝트였습니다. 초기부터 들어간게 아니라 중간에 투입이 되어서 히스토리를 모르고 무작정 시작을 했기에<br>
