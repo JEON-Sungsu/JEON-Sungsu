@@ -10,6 +10,11 @@
     - 데이터 연동
 - 사용 기술 : Reactnative
 
+## 앱 동작 화면
+|First|Second|Third|Fourth|
+|:---:|:---:|:---:|:---:|
+|![Diet_tab1](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/953e4c21-38b7-4a2d-a174-ba560302caaf)|![Diet_tab2](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/faa6e5a4-d1b1-4051-9e73-5f860fa2382e)|![Diet_tab3](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/7cb45b1b-3014-4936-aa34-ff18042b59b0)|![Diet_tab4](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/d316bd6e-5ae2-4109-b49b-3ed97b4b58d6)|
+
 ## 프로젝트 회고
 - React와 비슷할거라고 생각하고 큰 걱정없이 시작했지만, 다른 부분은 모르겠지만, UI 구현을 함에 있어서는 기존 React나 JSX와는 크게 달라서 초반에 적응하는데 매우 힘들었던것 같습니다.<br>
 가장 힘들었던 부분은, reactnative의 디버깅 툴을 사용하기가 힘들어, 셀 수 없이 많이 발생하는 에러들 때문에, 일일이 구글링을 통해 찾아보며 더디게 프로젝트를 진행했던게 가장 힘든 기억으로 남아있습니다.
