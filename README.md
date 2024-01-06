@@ -8,14 +8,17 @@
 ### Apps
 **iOS**
 - [WeatherForecast Project](https://github.com/Remaked-Swain/ios-weather-forecast) <br>
-- [BankManager Project](https://github.com/newJunsung/ios-bank-manager)
+- [BankManager Project](https://github.com/newJunsung/ios-bank-manager)<br>
+
 
 **React**
-
+- [Diet](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Diet.md)<br>
+- [Welcompay](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Welcom.md)<br>
 
 **Hybrid**
 - [신한은행 스토리뱅크](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Shinhan.md)<br>
-
+- [페이락](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Payrok.md)<br>
+- [CUPost](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/CUPost.md)<br>
 ## Skills
 **iOS**<br>
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/>
