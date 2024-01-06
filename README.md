@@ -1,7 +1,8 @@
-## It's Me!
-
+## About Me!
+**Keywords**<br><br>
 <img src="https://img.shields.io/badge/iOS개발-000000?style=flat&logo=Apache Spark&logoColor=white"/> <img src="https://img.shields.io/badge/협업능력탑재-000000?style=flat&logo=Apache Spark&logoColor=white"/> <img src="https://img.shields.io/badge/프론트엔드경험-000000?style=flat&logo=Apache Spark&logoColor=white"/>
-<br><br><br><br>
+<br><br>
+**Contact**<br><br>
 <a href=""><img src="https://img.shields.io/badge/anagma@naver.com-EE672F?style=flat-square&logo=mail.com&logoColor=white"/></a>
 <a href="https://erratic-devourer-025.notion.site/Programming-94b9e00cbc38415a813d92e3027ac816?pvs=4" taget="_blank"><img src="https://img.shields.io/badge/Skill Note-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
