@@ -1,5 +1,6 @@
 ## It's Me!
-다양한 직무 경험을 통해 사람들과의 커뮤니케이션 능력을 기르고, 1년 6개월간 프론트엔드 개발자로써 개발 협업 능력을 탑재한 중고신입 iOS 개발자 Howard 입니다~! 잘 부탁 드려요! 
+
+<img src="https://img.shields.io/badge/iOS개발-000000?style=flat&logo=Apache Spark&logoColor=white"/> <img src="https://img.shields.io/badge/협업능력탑재-000000?style=flat&logo=Apache Spark&logoColor=white"/> <img src="https://img.shields.io/badge/프론트엔드경험-000000?style=flat&logo=Apache Spark&logoColor=white"/>
 <br><br><br><br>
 <a href=""><img src="https://img.shields.io/badge/anagma@naver.com-EE672F?style=flat-square&logo=mail.com&logoColor=white"/></a>
 <a href="https://erratic-devourer-025.notion.site/Programming-94b9e00cbc38415a813d92e3027ac816?pvs=4" taget="_blank"><img src="https://img.shields.io/badge/Skill Note-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
