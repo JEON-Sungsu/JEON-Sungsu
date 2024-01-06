@@ -10,6 +10,11 @@
     - 공통 UI 제작
 - 사용 기술 : HTML, CSS, Javascript 
 
+## 앱 동작 화면
+| GIF |
+| --- |
+|![CUPost](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/dbd6d893-a7fb-428a-bc29-dc52ac3ecead)|
+
 ## 프로젝트 회고
 - 점점 신입의 티를 벗고, 프로젝트를 온전히 마무리한 경험도 쌓은 후 투입되었던 프로젝트였습니다. <br>
 큰 어려움이나 이슈사항 없이 무난하게 잘 마무리 했던 프로젝트였습니다.
