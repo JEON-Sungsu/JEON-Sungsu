@@ -11,9 +11,9 @@
 - 사용 기술 : HTML, CSS, Javascript 
 
 ## 앱 동작 화면
-| GIF |
-| --- |
-|![CUPost](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/dbd6d893-a7fb-428a-bc29-dc52ac3ecead)|
+|First|Second|Third|Fourth|
+|---|---|---|---|
+|![CU_01](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/d245b6fb-9f9a-4286-87f1-4c0c473ca648)|![CU_02](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/df3e7242-5af6-4429-b1f3-49ad64fcb44e)|![CU_03](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/482455d7-9c59-42f2-86f6-8eabf9481a91)|![CU_04](https://github.com/JEON-Sungsu/JEON-Sungsu/assets/63297236/c4c49ecf-738b-4aca-b691-61c12584322b)|
 
 ## 프로젝트 회고
 - 점점 신입의 티를 벗고, 프로젝트를 온전히 마무리한 경험도 쌓은 후 투입되었던 프로젝트였습니다. <br>
