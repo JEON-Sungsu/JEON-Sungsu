@@ -1,3 +1,10 @@
+## Projects
+### Apps
+|Flutter|iOS|React|Hybrid|
+|---|---|---|---|
+|1. [잡학계산기](https://github.com/JEON-Sungsu/miscellaneous_calculator)<br>|1. [Chatbot Project](https://github.com/JEON-Sungsu/ios-chat-bot) <br>2. [WeatherForecast Project](https://github.com/Remaked-Swain/ios-weather-forecast) <br>3. [BankManager Project](https://github.com/newJunsung/ios-bank-manager)<br>|1. [Diet](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Diet.md)<br>2. [Welcompay](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Welcom.md)<br>|1. [신한은행 스토리뱅크](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Shinhan.md)<br>2. [페이락](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Payrok.md)<br>3. [CUPost](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/CUPost.md)<br>|
+
+
 ## About Me!
 **I did**<br><br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JEON-Sungsu&show_icons=true&theme=highcontrast)
@@ -11,24 +18,6 @@
 <a href=""><img src="https://img.shields.io/badge/anagma@naver.com-EE672F?style=flat-square&logo=mail.com&logoColor=white"/></a>
 <a href="https://erratic-devourer-025.notion.site/Programming-94b9e00cbc38415a813d92e3027ac816?pvs=4" taget="_blank"><img src="https://img.shields.io/badge/Skill Note-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br><br>
-
-## Projects
-### Apps
-**iOS**
-- [Chatbot Project](https://github.com/JEON-Sungsu/ios-chat-bot) <br>
-- [WeatherForecast Project](https://github.com/Remaked-Swain/ios-weather-forecast) <br>
-- [BankManager Project](https://github.com/newJunsung/ios-bank-manager)<br>
-
-
-**React**
-- [Diet](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Diet.md)<br>
-- [Welcompay](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Welcom.md)<br>
-
-**Hybrid**
-- [신한은행 스토리뱅크](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Shinhan.md)<br>
-- [페이락](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Payrok.md)<br>
-- [CUPost](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/CUPost.md)<br>
-<br>
 
 ## Skills
 
