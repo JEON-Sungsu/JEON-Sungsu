@@ -2,7 +2,7 @@
 ### Apps
 |Flutter|iOS|React|Hybrid|
 |---|---|---|---|
-|1. [잡학계산기](https://github.com/JEON-Sungsu/miscellaneous_calculator)<br>|1. [Chatbot Project](https://github.com/JEON-Sungsu/ios-chat-bot) <br>2. [WeatherForecast Project](https://github.com/Remaked-Swain/ios-weather-forecast) <br>3. [BankManager Project](https://github.com/newJunsung/ios-bank-manager)<br>|1. [Diet](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Diet.md)<br>2. [Welcompay](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Welcom.md)<br>|1. [신한은행 스토리뱅크](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Shinhan.md)<br>2. [페이락](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Payrok.md)<br>3. [CUPost](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/CUPost.md)<br>|
+|1. [내리라](https://github.com/JEON-Sungsu/leave_subway) <br>2. [잡학계산기](https://github.com/JEON-Sungsu/miscellaneous_calculator)<br>|1. [Chatbot Project](https://github.com/JEON-Sungsu/ios-chat-bot) <br>2. [WeatherForecast Project](https://github.com/Remaked-Swain/ios-weather-forecast) <br>3. [BankManager Project](https://github.com/newJunsung/ios-bank-manager)<br>|1. [Diet](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Diet.md)<br>2. [Welcompay](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/React/Welcom.md)<br>|1. [신한은행 스토리뱅크](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Shinhan.md)<br>2. [페이락](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/Payrok.md)<br>3. [CUPost](https://github.com/JEON-Sungsu/JEON-Sungsu/blob/master/Hybrid/CUPost.md)<br>|
 
 
 ## About Me!
